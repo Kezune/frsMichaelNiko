@@ -1,0 +1,32 @@
+Logfile initialized
+[INFO] logfile = /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/build.log
+[DEBUG] /Users/MichaelLXB/Library/Application Support/Titanium/mobilesdk/osx/1.7.3/android/builder.py simulator frsMichaelNiko /Applications/Coding/android-sdk-mac_x86 /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko com.michniko 7 HVGA 
+[INFO] Building frsMichaelNiko for Android ... one moment
+[INFO] Titanium SDK version: 1.7.3 (10/17/11 13:44 dcf4257)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 2 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.018226 seconds on emulator to get ready
+[DEBUG] com.michniko installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/main_windows/titels.js => /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/build/android/bin/assets/Resources/main_windows/titels.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/MichaelLXB/Documents/Titanium Studio Workspace/frsMichaelNiko/Resources/android/images/res-notlong-port-mdpi/default.png
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... frsMichaelNiko
+[INFO] Launching application ... frsMichaelNiko
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.michniko/.FrsmichaelnikoActivity }
+Warning: Activity not started, its current task has been brought to the front
+
+[INFO] Android Emulator has exited
